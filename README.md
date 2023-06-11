@@ -1,6 +1,6 @@
 # Malaria Diagnosis Through Image Classification using Convolutional Neural Networks (CNN)
 
-[Live Notebook](https://www.jasdeepahluwalia.com/files/notebooks/malaria_detection)
+View the live notebook [here](https://www.jasdeepahluwalia.com/files/notebooks/malaria_detection)
 
 This repository demonstrates a powerful application of Convolutional Neural Networks (CNNs) to medical imaging, specifically to the diagnosis of Malaria through cell images. We built a comprehensive pipeline from data acquisition and preprocessing, to training a deep learning model and evaluating its performance.
 
